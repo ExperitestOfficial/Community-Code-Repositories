@@ -1,5 +1,7 @@
 # Community-Code-Repositories
 
+![continuous-testing-logo-no-echo-fc-light-RGB-lg](https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/0e57719c-fa7c-4a72-871e-373c9ca368e5)
+
 Digital.ai Continuous Testing has created cloeable, out-of-the box starter projects for Appium and other popular frameworks, with step by step instructions on how to start running tests as soon as possible. This list consolidates all the repositories available.
 
 ## Mobile Frameworks
