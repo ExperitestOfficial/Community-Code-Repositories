@@ -6,7 +6,7 @@ Digital.ai Continuous Testing has created cloneable, out-of-the box starter proj
 
 ## Mobile Frameworks
 
-### Java <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/30cdf216-b9b4-4409-b4ce-88b077d6dfd7" width="50" height="50">
+### Java <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/30cdf216-b9b4-4409-b4ce-88b077d6dfd7" width="40" height="40">
 
 [Appium Code Examples](https://github.com/ExperitestOfficial/CommunityCode-AppiumCodeExamples) - This project demonstrates how to use Appium with Java for Mobile Native Applications. The code examples contains basic code examples, as well as advanced code examples specific to Digital.ai.
 
