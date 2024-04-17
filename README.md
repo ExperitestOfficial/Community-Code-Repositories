@@ -40,15 +40,15 @@ Digital.ai Continuous Testing has created cloeable, out-of-the box starter proje
 
 ### Ruby
 
+[Ruby Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-RubyStarterProject) - Use this project to get started writing tests with Continuous Testing Cloud using Ruby.
+
 ### JavaScript
 
-Ruby Starter Project
+[WebdriverIO Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-WDIOStarterProject) - This is a starter project to help you start using Continuous Testing with WebdriverIO
 
-WebdriverIO Starter Project
+[NightWatchJS Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-NightWatchJSStarterProject) - Use this integrated starter project for perfoming automated end-to-end testing.
 
-NightWatchJS Starter Project
+[Cypress Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-CypressStarterProject) - The Cypress Starter project enables you to quickly run tests in cypress.
 
-Cypress Starter Project
-
-Playwright Starter Project
+[Playwright Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-PlaywrightStarterProject) - The Playwright Starter project enables you to quickly run tests in playwright.
 
