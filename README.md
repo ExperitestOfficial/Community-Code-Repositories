@@ -20,7 +20,7 @@ Digital.ai Continuous Testing has created cloneable, out-of-the box starter proj
 
 [Robot Framework Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Mobile-RobotFrameworkStarterProject) - The Robot framework project enables you to quickly run tests using easy syntax and utilizing human-readable keywords.
 
-### Ruby
+### Ruby <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/93850d12-4b6f-48cf-956e-b2043b2a78c3" width="20" height="20">
 
 [Ruby Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Mobile-RubyStarterProject) - Use this project to get started writing tests with Continuous Testing Cloud using Ruby.
 
