@@ -14,7 +14,7 @@ Digital.ai Continuous Testing has created cloneable, out-of-the box starter proj
 
 [JUnit Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Mobile-JUnitStarterProject) - The JUnit Starter Project enables you to quickly run tests with minimal coding. 
 
-### Python
+### Python <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/9b7863f9-ae84-4000-a901-e5d4d2093e27" width="20" height="20">
 
 [Python Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Mobile-PythonStarterProject) - This project demonstrates how to write tests for Continuous Testing Cloud using Python. Once cloned and set up properly, it runs as is.
 
