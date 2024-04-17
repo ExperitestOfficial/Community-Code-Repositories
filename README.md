@@ -26,7 +26,7 @@ Digital.ai Continuous Testing has created cloneable, out-of-the box starter proj
 
 ## Cross Browser Frameworks
 
-### Java
+### Java <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/30cdf216-b9b4-4409-b4ce-88b077d6dfd7" width="20" height="20">
 
 [TestNG Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-TestNGStarterProject) - The TestNG Starter Project enables you to quickly run tests with minimal coding. 
 
@@ -34,17 +34,17 @@ Digital.ai Continuous Testing has created cloneable, out-of-the box starter proj
 
 [Serenity Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-SerenityStarterProject) - The Serenity-Cucumber Starter Project enables you to quickly run tests with minimal coding.
 
-### Python
+### Python <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/9b7863f9-ae84-4000-a901-e5d4d2093e27" width="20" height="20">
 
 [Python Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-PythonStarterProject) - This project demonstrates how to write tests for Continuous Testing Cloud using Python.
 
 [Robot Framework Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-RobotFrameworkStarterProject) - The Robot framework project enables you to quickly run tests using easy syntax and utilizing human-readable keywords.
 
-### Ruby
+### Ruby <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/93850d12-4b6f-48cf-956e-b2043b2a78c3" width="20" height="20">
 
 [Ruby Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-RubyStarterProject) - Use this project to get started writing tests with Continuous Testing Cloud using Ruby.
 
-### JavaScript
+### JavaScript <img src="https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/9c84b7a2-de82-4621-addc-7b2865245649" width="20" height="20">
 
 [WebdriverIO Starter Project](https://github.com/ExperitestOfficial/CommunityCode-Web-WDIOStarterProject) - This is a starter project to help you start using Continuous Testing with WebdriverIO
 
