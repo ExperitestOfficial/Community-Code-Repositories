@@ -1,4 +1,4 @@
-# Community-Code-Repositories
+# Community-Quick-Start-Repositories
 
 ![continuous-testing-logo-no-echo-fc-light-RGB-lg](https://github.com/ExperitestOfficial/Community-Code-Repositories/assets/71343050/0e57719c-fa7c-4a72-871e-373c9ca368e5)
 
